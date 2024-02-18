@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: express_app
+  annotations:
+    github.com/project-slug: MennaTullahTaha/express_app
+spec:
+  type: other
+  lifecycle: unknown
+  owner: guests
